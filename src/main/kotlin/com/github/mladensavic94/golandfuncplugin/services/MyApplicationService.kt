@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mladensavic94.golandfuncplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mladensavic94.golandfuncplugin.MyBundle
 
 class MyApplicationService {
 
